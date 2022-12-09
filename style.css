@@ -1,0 +1,19 @@
+body{
+    background-image: radial-gradient(cyan, lightblue,  lime);
+}
+h3{
+    width: 50%;
+    height: 10%;
+    font-size: 30px !important;
+    font-style: italic;
+}
+button{
+    width: 15%;
+    height: 6%;
+    font-size: 19px !important;
+    font-style: italic;
+    text-align: center;
+}
+circle{
+    color: rgb(255, 0, 191);
+}
